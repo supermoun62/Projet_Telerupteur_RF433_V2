@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+simpleBouton	KEYWORD3
+boutonAction	KEYWORD3
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+actualiser	KEYWORD2
+estEnfonce	KEYWORD2
+estRelache	KEYWORD2
+estStable	KEYWORD2
+pin	KEYWORD2
+vientDEtreEnfonceOuRelache	KEYWORD2
+vientDEtreEnfonce	KEYWORD2
+vientDEtreRelache	KEYWORD2
+dureeEtatActuel	KEYWORD2
+dureeEnfonce	KEYWORD2
+dureeRelache	KEYWORD2
+estStableDepuisPlusDe	KEYWORD2
+estEnfonceDepuisPlusDe	KEYWORD2
+estRelacheDepuisPlusDe	KEYWORD2
+estStableDepuisAuMoins	KEYWORD2
+estEnfonceDepuisAuMoins	KEYWORD2
+estRelacheDepuisAuMoins	KEYWORD2
+delaiDebounceMs	KEYWORD2
+attacher	KEYWORD2
+activerRepetition	KEYWORD2
+desactiverRepetition	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
